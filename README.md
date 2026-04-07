@@ -6,15 +6,15 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 
 <!-- Make sure the table format is aligned and conferences are in chronological order :) -->
 
-| Name                                    | Date                 | CfP-Link                | CfP-Deadline-Date | Place                  | Aprox. Attendees |
-| --------------------------------------- | -------------------- | ----------------------- | ----------------- | ---------------------- | ---------------- |
-| [AppDevCon 2026][37]                    | March 10-13, 2026    | [AppDevCon][59]         | December 19, 2025 | Amsterdam, Netherlands | 1000+            |
-| [FlutterConf Spain][62]                 | May 8-9, 2026        | [FlutterConf Spain][63] | ???               | Malaga, Spain          | ???              |
-| [mDevCamp 2026][60]                     | June 3-4, 2026       | [mDevCamp][61]          | November 30, 2025 | Prague, Czech Republic | 700              |
-| [fluttercon & next.app USA 2026][11]    | July 16-17, 2026     | [CFP][57]               | April 30, 2026    | Orlando, USA           | 500-1000         |
-| [FlutterConf Latam 2026][13]            | September 22-23,2026 | ???                     | ???               | Cancun, Mexico         | ???              |
-| [fluttercon & next.app Europe 2026][58] | October 7-9, 2026    | ???                     | ???               | Berlin, Germany        | 1000+            |
-| [Flutter & Friends][9] 2026             | ???                  | ???                     | ???               | Stockholm, Sweden      | 500+             |
+| Name                                    | Date                 | CfP-Link                     | CfP-Deadline-Date | Place                  | Aprox. Attendees |
+| --------------------------------------- | -------------------- | ---------------------------- | ----------------- | ---------------------- | ---------------- |
+| [AppDevCon 2026][37]                    | March 10-13, 2026    | [AppDevCon][59]              | December 19, 2025 | Amsterdam, Netherlands | 1000+            |
+| [FlutterConf Spain][62]                 | May 8-9, 2026        | [FlutterConf Spain][63]      | ???               | Malaga, Spain          | ???              |
+| [mDevCamp 2026][60]                     | June 3-4, 2026       | [mDevCamp][61]               | November 30, 2025 | Prague, Czech Republic | 700              |
+| [fluttercon & next.app USA 2026][11]    | July 16-17, 2026     | [CFP][57]                    | April 30, 2026    | Orlando, USA           | 500-1000         |
+| [Flutter & Friends][9] 2026             | September 3-5, 2026  | [flutterfriends.dev/cfp][64] | June 1, 2026      | Stockholm, Sweden      | 500+             |
+| [FlutterConf Latam 2026][13]            | September 22-23,2026 | ???                          | ???               | Cancun, Mexico         | ???              |
+| [fluttercon & next.app Europe 2026][58] | October 7-9, 2026    | ???                          | ???               | Berlin, Germany        | 1000+            |
 
 ## Past Flutter conferences
 
@@ -122,3 +122,4 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [61]: https://docs.google.com/forms/d/e/1FAIpQLScTA4u1rd2moKsMF9Uclx7NruudYDvpbmB9AIt4WYV6mQNMTQ/viewform
 [62]: https://flutterconf.es/
 [63]: https://docs.google.com/forms/d/e/1FAIpQLSfxBFH1rIGd9DLrdDGM7UFxhTFqL3PjqTNtjuD_3NuoS4yYNw/viewform?usp=send_form
+[64]: https://flutterfriends.dev/cfp
